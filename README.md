@@ -1,4 +1,4 @@
 # hello-world
 Hello,
 
-I'm Josh Patton, a student at Jefferson State Community College. I dont have much experience with Github, but I hope to get acclumated to it relativly fast. I have about a year of experience with Java and have dabbled in C#. 
+I'm Josh Patton, a student at Jefferson State Community College. I dont have much experience with Github, but I hope to get acclumated to it relativly fast. I have about a year of experience with Java and have dabbled in C#. I plan to get a job in the programming field, but also have intrests in game delevlopment.
